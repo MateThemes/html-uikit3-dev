@@ -4,7 +4,7 @@ import handlebars from 'vite-plugin-handlebars';
 
 const pageData = {
     '/index.html': {
-        title: 'Der perfekte Boden',
+        title: 'Starter Project',
     },
 };
 
